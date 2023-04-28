@@ -3,6 +3,7 @@
 using namespace std;
 
 
+
 // ARRAY STL
 
 int main(){
@@ -400,9 +401,4 @@ int main(){
   for(int i:v){
       cout<<i<<" ";
   }
-  
-  
-  
 }
-
-
